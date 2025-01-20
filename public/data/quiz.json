@@ -1,0 +1,19 @@
+ {
+  "questions": [
+    { "photo_src": "/images/01_ai.png","answer": false },
+    { "photo_src": "/images/02_ai.png","answer": false }, 
+    { "photo_src": "/images/03_real.png", "answer": true },
+    { "photo_src": "/images/04_ai.png", "answer": false },
+    { "photo_src": "/images/05_real.png", "answer": true },
+    { "photo_src": "/images/06_real.png", "answer": true },
+    { "photo_src": "/images/07_ai.png", "answer": false },
+    { "photo_src": "/images/08_ai.png", "answer": false },
+    { "photo_src": "/images/09_real.png", "answer": true },
+    { "photo_src": "/images/10_ai.png", "answer": false },
+    { "photo_src": "/images/11_real.png", "answer": true },
+    { "photo_src": "/images/12_ai.png", "answer": false },
+    { "photo_src": "/images/13_real.png", "answer": true },
+    { "photo_src": "/images/14_ai.png", "answer": false },
+    { "photo_src": "/images/15_ai.png", "answer": false }
+  ]
+}

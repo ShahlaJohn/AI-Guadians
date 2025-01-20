@@ -1,0 +1,26 @@
+ {
+  "stories": [
+    { 
+      "photo_src": "/images/stories/01_story.jpeg",
+      "title": "The Brad Pitt Scam: A Heartbreaking Loss",
+      "paragraphs": ["A 53-year-old French woman fell victim to an elaborate scam involving <strong>AI-generated selfies of Brad Pitt.</strong>",
+        "The fraudster, pretending to be the actor, claimed to need <strong>€830,000 for life-saving cancer treatment.</strong> Convinced by the images and emotional pleas, she liquidated her assets and sent the money.",
+        "It wasn’t until she saw the real Brad Pitt, healthy on television, that the truth emerged."] 
+    },
+    { 
+      "photo_src": "/images/stories/02_story.jpeg",
+      "title": "Charity Deception: Playing with Compassion",
+      "paragraphs": ["Scammers have exploited global crises by <strong>using AI-generated images to fake humanitarian disasters.</strong>",
+        "<strong>For instance, by launching fraudulent campaigns displaying realistic photos of war zones and disaster victims to appeal for donations</strong>. People unknowingly donated large sums to these fake charities, believing they were aiding victims.",
+        "Instead, their money was pocketed by scammers, leaving real communities in need unsupported."]
+    }, 
+    { 
+      "photo_src": "/images/stories/03_story.jpg",
+      "title": "Deepfake CFO Scam",
+      "paragraphs": 
+      ["A finance employee at a international firm was tricked into transferring <strong>$25.6 million to fraudsters during a staged video conference.</strong>",
+      "Using advanced deepfake technology, <strong>the scammers impersonated the company’s CFO and other colleagues, perfectly replicating their voices and appearances.</strong> The victim initially doubted the authenticity of an email but was convinced after seeing familiar faces on the call.",
+      "Believing it was a legitimate corporate directive, <strong>he authorized the massive payout.</strong>"]
+    }
+  ]
+}

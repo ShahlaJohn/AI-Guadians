@@ -1,0 +1,27 @@
+{
+  "slides": [
+    {
+      "photo_src": "/images/02_ai.png",
+      "points": [
+          "1. Look for inconsistencies like <strong>asymmetrical</strong> facial features, <strong>awkward</strong> finger placement, or objects with <strong>strange proportions</strong>",
+          "2. Check for <strong>repetitive or unnatural textures</strong> on hair, skin, or clothing",
+          "3. Ensure the lighting and shadows match the scene."
+      ]
+    },
+    {
+      "photo_src": "/images/10_ai.png",
+      "points": [
+          "4. Be alert for issues like <strong>elongated hands, extra fingers or weirdly placed objects</strong>",
+          "5. Watch for <strong>overly blurred, complex, or nonsensical backgrounds</strong> that don’t align with the main subject.",
+          "6. Look for <strong>pixelation, odd color patterns, or unexplained blur</strong> in unexpected areas."
+      ]
+    },
+    {
+      "photo_src": "/images/12_ai.png",
+      "points": [
+          "7. <strong>Text within images is a weak spot for AI</strong>; it often appears garbled, nonsensical, or misspelled.",
+          "8. Pay attention to the faces — they might look subtly off, with <strong>unusual reflections in eyes, strange ear shapes, or inconsistent hairlines.</strong>"
+      ]
+    }
+  ]
+}
