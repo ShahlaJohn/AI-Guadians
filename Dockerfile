@@ -5,6 +5,7 @@ WORKDIR /app
 COPY . .
 
 ### Build Vue.js into plain HTML/CSS/JS
+RUN npm install
 RUN npm run build-prod
 
 ### Create final container
